@@ -1,0 +1,86 @@
+[
+ {
+  "n": 1,
+  "title": "Participação dos funcionários",
+  "body": "Quem opera e mantém o equipamento vê o risco antes do papel. Segurança de processo começa ouvindo quem está na linha.",
+  "caption": "Quem opera e mantém o molde vê o risco antes de qualquer relatório.\n\nNo PSM, a participação dos funcionários coloca operadores e mantenedores dentro da PHA e do MOC. No lingotamento contínuo, quem convive com o molde, os segmentos e a unidade hidráulica percebe o desvio primeiro. Ouça essa gente, registre e leve para a análise de riscos.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 2,
+  "title": "Informações de segurança de processo",
+  "body": "Sem desenho, limites e dados atualizados, ninguém decide certo. Conheça o processo antes de operar ou manter.",
+  "caption": "Sem informação atualizada, ninguém decide certo.\n\nNo PSM, as informações de segurança de processo reúnem fluxogramas, P&IDs, limites seguros de operação e dados de dimensionamento dos equipamentos. Antes de operar ou intervir no lingotamento contínuo, confirme a versão vigente.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 3,
+  "title": "Análise de perigos do processo",
+  "body": "Antes de ligar, pergunte: o que pode dar errado e o que nos protege? PHA é a pergunta feita com método.",
+  "caption": "O que pode dar errado, e o que nos protege?\n\nA análise de perigos do processo (PHA, com HAZOP, What-if ou FMEA) identifica cenários, causas e salvaguardas, e define ações com responsável e prazo. No lingotamento contínuo, o cenário de breakout é um exemplo clássico a ser analisado e revalidado periodicamente.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 4,
+  "title": "Procedimentos operacionais",
+  "body": "Procedimento bom é claro, atualizado e seguido. Operar fora dele é improvisar com risco.",
+  "caption": "Procedimento só protege quando é claro, atual e seguido.\n\nOs procedimentos operacionais definem partida, operação normal, limites, parada e emergência. Revise com quem executa a tarefa e atualize a cada mudança de processo ou equipamento.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 5,
+  "title": "Treinamento",
+  "body": "Quem entende o porquê da regra a cumpre melhor. Treine, avalie e recicle.",
+  "caption": "Competência é uma barreira de segurança.\n\nNo PSM, o treinamento inicial e as reciclagens garantem que operadores e mantenedores entendam os perigos e as razões dos procedimentos. Registre, avalie e reforce nas rotinas críticas.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 6,
+  "title": "Contratados",
+  "body": "Terceiro no processo precisa conhecer os mesmos perigos que o time próprio. Seleção, integração e controle.",
+  "caption": "Contratado também trabalha dentro do processo.\n\nO PSM exige seleção criteriosa, informação dos perigos, treinamento e controle de acesso e permissões para quem presta serviço. Em paradas de manutenção do lingotamento, a integração dos terceiros é essencial.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 7,
+  "title": "Revisão de segurança pré-partida",
+  "body": "Nada parte sem conferir: projeto, procedimentos, treinamento e ações pendentes fechadas. É o PSSR.",
+  "caption": "Antes de partir, confira.\n\nA revisão de segurança pré-partida (PSSR) verifica se a instalação nova ou modificada está conforme o projeto, com procedimentos, treinamentos e recomendações da PHA concluídas. É a última barreira antes da partida.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 8,
+  "title": "Integridade mecânica",
+  "body": "Equipamento crítico precisa de inspeção, teste e manutenção planejados. Falha evitada é incidente que não acontece.",
+  "caption": "Equipamento crítico não pode depender da sorte.\n\nA integridade mecânica cobre inspeção, testes, manutenção preventiva e correção de deficiências de vasos, tubulações, sistemas hidráulicos e dispositivos de alívio. Planeje por criticidade e registre os resultados.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 9,
+  "title": "Permissão para trabalho a quente",
+  "body": "Solda e corte em área de processo só com permissão, área liberada e vigilância de fogo.",
+  "caption": "Faísca é fonte de ignição.\n\nA permissão de trabalho a quente controla solda, corte e esmerilhamento em áreas com risco de incêndio ou explosão. Confirme o isolamento, a liberação da área e o vigia antes de iniciar.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 10,
+  "title": "Gestão de mudanças",
+  "body": "Mudou equipamento, processo ou procedimento? Avalie o risco antes de executar. É o MOC.",
+  "caption": "Toda mudança carrega um risco novo.\n\nO MOC avalia o impacto de alterações em tecnologia, equipamentos e procedimentos antes de executá-las, atualiza a documentação e treina as pessoas afetadas. Mudança sem análise vira incidente.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 11,
+  "title": "Investigação de incidentes",
+  "body": "Todo incidente e quase acidente ensina algo. Investigue as causas raiz, não procure culpados.",
+  "caption": "Quase acidente é aviso gratuito.\n\nO PSM pede investigação de incidentes e quase acidentes, com equipe, causa raiz, recomendações e acompanhamento das ações. O objetivo é corrigir o sistema, não achar culpados.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 12,
+  "title": "Planejamento e resposta a emergências",
+  "body": "Plano só vale se for treinado. Simule, avalie e atualize.",
+  "caption": "Emergência se enfrenta com o que foi treinado.\n\nO plano de emergência define alarmes, rotas, responsabilidades e comunicação. Faça simulados com cenários reais da planta, como vazamento de metal líquido, e corrija o que falhar.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 13,
+  "title": "Auditorias de conformidade",
+  "body": "Verifique se o que está no papel acontece na prática. Audite, corrija e feche as pendências.",
+  "caption": "Confiar, mas verificar.\n\nAs auditorias de conformidade checam, ao menos a cada três anos, se o programa de PSM é cumprido e eficaz. As constatações precisam de responsável, prazo e verificação do fechamento.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ },
+ {
+  "n": 14,
+  "title": "Segredos comerciais",
+  "body": "Informação de segurança não se esconde de quem precisa dela. Proteja o sigilo sem barrar o acesso.",
+  "caption": "Sigilo não pode impedir segurança.\n\nO PSM garante que quem precisa das informações do processo para a PHA, investigações e procedimentos tenha acesso, mesmo quando houver segredo comercial, com acordos de confidencialidade quando necessário.\n\nReferência: OSHA 29 CFR 1910.119\n\n#PSM #SegurancaDeProcesso #Siderurgia #EngenhariaDeManutencao #LingotamentoContinuo"
+ }
+]
